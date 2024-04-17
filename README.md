@@ -13,7 +13,7 @@
 
 <b>2. Frontend</b><br>
 <img src="https://img.shields.io/badge/html-6DB33F?style=for-the-badge&logo=html5&logoColor=white"><br>
-<img src="https://img.shields.io/badge/css-6DB33F?style=for-the-badge&logo=css&logoColor=white"><br>
+<img src="https://img.shields.io/badge/css-6DB33F?style=for-the-badge&logo=css3&logoColor=white"><br>
 <img src="https://img.shields.io/badge/javascript-6DB33F?style=for-the-badge&logo=javascript&logoColor=white"><br>
 
 <b>3. DB</b>
