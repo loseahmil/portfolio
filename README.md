@@ -29,9 +29,18 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/2023-SMHRD-IS-AI1/RepoUp)
+>### 1. [포트폴리오](https://github.com/Project-TokTalk/backend)
 >나의 백엔드 포트폴리오 (팀 프로젝트)  
->개발 기간: 2024.01.08 ~ 2024.01.23  
+>개발 기간: 2024.03.15 ~ 2024.04.15
+>주요 내용: LLM과 번역 API를 이용하여 다국어를 지원하는 공공기관 챗봇 서비스
+>
+>기술 스택: 
+>  
+>[프로젝트 상세 설명](https://github.com/Project-TokTalk/backend) 참고
+>
+### 2. [포트폴리오](https://github.com/2023-SMHRD-IS-AI1/RepoUp)
+>나의 백엔드 포트폴리오 (팀 프로젝트)
+>개발 기간: 2024.01.08 ~ 2024.01.23
 >주요 내용: 2~30대 여성을 위한 선호도 알고리즘 기반 트렌드 분석 및 추천 서비스
 >
 >기술 스택: Java / Spring Framework / MySQL / Python / Ajax / HTML / CSS / Java Script
