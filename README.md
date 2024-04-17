@@ -51,6 +51,19 @@
 
 </br>
 
+## :pushpin: Education
+- 언어지능기반 분석 서비스모델 개발자과정(2023.09.27 ~ 2024.04.17, 스마트인재개발원)
+- 전남대학교 컴퓨터정보통신공학과 졸업(2019.03 ~ 2023.08)
+
+</br>
+
+## :pushpin: Certificate
+- SQLD(SQL 개발자)
+- 정보처리기사 필기
+- 컴퓨터활용능력 1급
+
+</br>
+
 ## :pushpin: Contact
 - 이메일: lhs363447@gmail.com
 - 블로그: https://velog.io/@haesollim/posts
