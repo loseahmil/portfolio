@@ -13,17 +13,17 @@
 - 전자정부표준프레임워크(eGovFrame)
 
 <b>2. Frontend</b>
-      - HTML/CSS
-      - JavaScript
+- HTML/CSS
+- JavaScript
 
 <b>3. DB</b>
-      - Oracle
-      - MySQL
+- Oracle
+- MySQL
 
 <b>4. Language</b>
-      - Python
-      - Java
-      - C/C++
+- Python
+- Java
+- C/C++
 
 ## :pushpin: Contact
 - 이메일: lhs363447@gmail.com
