@@ -20,15 +20,10 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"><br>
 
-<b>4. Language</b>
-- Python
-- Java
-- C/C++
-
-## :pushpin: Contact
-- 이메일: lhs363447@gmail.com
-- 블로그: https://velog.io/@haesollim/posts
-- 깃허브: https://github.com/loseahmil
+<b>4. Language</b><br>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
+<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"><br>
+<img src="https://img.shields.io/badge/c++-A8B9CC?style=for-the-badge&logo=c++&logoColor=white"><br>
 
 </br>
 
@@ -41,3 +36,10 @@
 >기술 스택: Java / Spring Framework / MySQL / Python / Ajax / HTML / CSS / Java Script
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp) 참고
+
+</br>
+
+## :pushpin: Contact
+- 이메일: lhs363447@gmail.com
+- 블로그: https://velog.io/@haesollim/posts
+- 깃허브: https://github.com/loseahmil
