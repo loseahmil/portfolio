@@ -8,7 +8,7 @@
 
 ## :pushpin: Technical Skills
 <b>1. Backend</b>
-- Spring Framework
+<img src="https://img.shields.io/badge/spring-E34F26?style=for-the-badge&logo=spring&logoColor=white">
 - Spring Boot
 - 전자정부표준프레임워크(eGovFrame)
 
