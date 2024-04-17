@@ -17,8 +17,8 @@
 - JavaScript
 
 <b>3. DB</b>
-- Oracle
 - MySQL
+- Oracle
 
 <b>4. Language</b>
 - Python
