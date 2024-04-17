@@ -6,6 +6,22 @@
 
 </br>
 
+## :pushpin: Technical Skills
+1. Backend
+   - Spring Framework
+   - Spring Boot
+   - 전자정부표준프레임워크(eGovFrame)
+2. Frontend
+   - HTML/CSS
+   - JavaScript
+3. DB
+   - Oracle
+   - MySQL
+4. Language
+   - Python
+   - Java
+   - C/C++
+
 ## :pushpin: Contact
 - 이메일: lhs363447@gmail.com
 - 블로그: https://velog.io/@haesollim/posts
