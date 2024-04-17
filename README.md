@@ -10,11 +10,11 @@
 <b>1. Backend</b><br>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><br>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-- 전자정부표준프레임워크(eGovFrame)
 
 <b>2. Frontend</b>
-- HTML/CSS
-- JavaScript
+<img src="https://img.shields.io/badge/html-6DB33F?style=for-the-badge&logo=html&logoColor=white"><br>
+<img src="https://img.shields.io/badge/css-6DB33F?style=for-the-badge&logo=css&logoColor=white"><br>
+<img src="https://img.shields.io/badge/javascript-6DB33F?style=for-the-badge&logo=javascript&logoColor=white"><br>
 
 <b>3. DB</b>
 - MySQL
