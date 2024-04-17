@@ -8,9 +8,9 @@
 
 ## :pushpin: Technical Skills
 <b>1. Backend</b>
-      - Spring Framework
-      - Spring Boot
-      - 전자정부표준프레임워크(eGovFrame)
+- Spring Framework
+- Spring Boot
+- 전자정부표준프레임워크(eGovFrame)
 
 <b>2. Frontend</b>
       - HTML/CSS
