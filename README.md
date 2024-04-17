@@ -36,7 +36,9 @@
 >
 >기술 스택: 
 >  
->[프로젝트 상세 설명](https://github.com/Project-TokTalk/backend) 참고
+>[프로젝트 상세 설명, Backend](https://github.com/Project-TokTalk/backend) 참고
+>[Frontend](https://github.com/Project-TokTalk/React) 참고
+>[Modeling](https://github.com/Project-TokTalk/Modeling) 참고
 >
 ### 2. [2~30대 여성을 위한 선호도 알고리즘 기반 트렌드 분석 및 추천 서비스](https://github.com/2023-SMHRD-IS-AI1/RepoUp)
 >Backend (팀 프로젝트)<br>
