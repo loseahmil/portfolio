@@ -7,7 +7,7 @@
 </br>
 
 ## :pushpin: Technical Skills
-1. Backend
+<b>1. Backend</b>
    - Spring Framework
    - Spring Boot
    - 전자정부표준프레임워크(eGovFrame)
