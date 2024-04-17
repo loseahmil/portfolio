@@ -9,7 +9,7 @@
 ## :pushpin: Technical Skills
 <b>1. Backend</b><br>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/spring-boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 - 전자정부표준프레임워크(eGovFrame)
 
 <b>2. Frontend</b>
