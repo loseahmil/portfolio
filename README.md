@@ -49,6 +49,14 @@
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp) 참고
 >
+### 3. [미니프로젝트]
+>데이터 분석 (팀 프로젝트)<br>
+>개발 기간: 2023.11.08 ~ 2023.11.10<br>
+>주요 내용: 아파트 데이터 분석
+>
+>기술 스택: Python / HTML / CSS / Java Script
+>
+>[프로젝트 상세 설명]
 </br>
 
 ## :pushpin: Education
