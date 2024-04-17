@@ -11,13 +11,13 @@
    - Spring Framework
    - Spring Boot
    - 전자정부표준프레임워크(eGovFrame)
-2. Frontend
+<b>2. Frontend</b>
    - HTML/CSS
    - JavaScript
-3. DB
+<b>3. DB</b>
    - Oracle
    - MySQL
-4. Language
+<b>4. Language</b>
    - Python
    - Java
    - C/C++
