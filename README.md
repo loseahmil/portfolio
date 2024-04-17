@@ -48,7 +48,7 @@
 >기술 스택: Java / Spring Framework / MySQL / Python / Ajax / HTML / CSS / Java Script
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp) 참고
-
+>
 </br>
 
 ## :pushpin: Education
